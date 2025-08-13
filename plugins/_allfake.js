@@ -11,8 +11,8 @@ handler.all = async function (m) {
     "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg";
   let fotonyu = "https://files.catbox.moe/hnbuh3.jpg";
   let logo = "https://files.catbox.moe/hnbuh3.jpg"; // define logo aquí
-  let namebot = "SILANA LITE AI";
-  let sig = "https://instagram.com/noureddine_ouafy";
+  let namebot = ساسكي 5 G AI";
+  let sig = "";
 
   try {
     // pp = await this.profilePictureUrl(m.sender, "image");
@@ -44,8 +44,8 @@ handler.all = async function (m) {
     global.kontak2 = [
       [
         owner[0],
-        await conn.getName(owner[0] + "212717457920@s.whatsapp.net"),
-        "SILANA AI",
+        await conn.getName(owner[0] + "212604539484@s.whatsapp.net"),
+        "ساسكي AI",
         "https://whatsapp.com",
         true,
       ],
@@ -89,9 +89,9 @@ handler.all = async function (m) {
         isForwarded: true,
         forwardingScore: 1,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363285847738492@newsletter",
+          newsletterJid: "",
           serverMessageId: 103,
-          newsletterName: `SILANA LITE AI    |   هيا نحو النجاح 🧑‍🏫`,
+          newsletterName: `بوت ساسكي 5G   |  🌩️هيا نحو النجاح 🧑‍🏫`,
         },
         externalAdReply: {
           title: namebot,
