@@ -1307,7 +1307,7 @@ ${global.namebot}
         if (m) {
             if (m.sender && (user = global.db.data.users[m.sender])) {
                 user.exp += m.exp
-                user.limit -= m.limit * 250
+                user.limit -= m.limit * 25
             }
 
             let stat
